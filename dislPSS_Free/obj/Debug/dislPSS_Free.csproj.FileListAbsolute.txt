@@ -1,0 +1,9 @@
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\bin\Debug\dislPSS_Free.exe.config
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\bin\Debug\dislPSS_Free.exe
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\bin\Debug\dislPSS_Free.pdb
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\obj\Debug\dislPSS_Free.csprojAssemblyReference.cache
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\obj\Debug\dislPSS_Free.Properties.Resources.resources
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\obj\Debug\dislPSS_Free.csproj.GenerateResource.cache
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\obj\Debug\dislPSS_Free.csproj.CoreCompileInputs.cache
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\obj\Debug\dislPSS_Free.exe
+C:\Users\DSluzki\Source\Repos\dislPSS_Free\dislPSS_Free\obj\Debug\dislPSS_Free.pdb
